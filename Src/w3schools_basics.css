@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: 18px;
+  margin-left: 5em;
+  background-color: rgb(236, 232, 232);
+}
+
+body button {
+  background-color: #3079ed;
+  color: white;
+  border: none;
+  border-radius: 0.5em;
+}
+
+body button:focus {
+  outline: none;
+}
